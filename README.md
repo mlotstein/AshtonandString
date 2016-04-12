@@ -22,13 +22,13 @@ K will be an appropriate integer.
 
 ###Sample Input #00
 
->1
->dbac
->3
+1
+dbac
+3
 
 ###Sample Output #00
 
->c
+c
 ###Explanation #00
 
 The substrings when arranged in lexicographic order are as follows
