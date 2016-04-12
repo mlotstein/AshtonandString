@@ -2,6 +2,7 @@
 ====================
 Solutions to https://www.hackerrank.com/contests/101jun14/challenges/ashton-and-string
 
+#**NOTE:** The current solution is WRONG but interesting from an algorithmic/data structures perspective, so I'm leaving it up for now.
 ## Background
 ----------------------------
 Ashton appeared for a job interview and is asked the following question. Arrange all the distinct substrings of a given string in lexicographical order and concatenate them. Print the KthKth character of the concatenated string. It is assured that given value of KK will be valid i.e. there will be a KthKth character. Can you help Ashton out with this?
